@@ -1,0 +1,11 @@
+.myh1{
+    font-size: 5rem !important;
+    font-weight: bold;
+    padding-top: 50px !important;
+}
+
+@media (max-width:850px){
+    .myh1{
+        font-size: 3rem !important;
+    }
+}
